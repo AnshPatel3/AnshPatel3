@@ -32,6 +32,8 @@
         <img src="https://github.com/user-attachments/assets/894490ca-5e5d-4830-8868-897721ae5558" alt="CompTIA Security+ Badge" width="90"/><br>
         <b>CompTIA Security+ (SYO-701)</b>
       </a>
+      <br>
+      <sub>Earned March 2025 • <a href="https://www.credly.com/badges/fbbc8aa3-c9d3-4f05-a409-00cb6f83c418/public_url" target="_blank">Verify</a></sub>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/118f5b78-86c4-46e7-aa2c-c510a0e35cf7" alt="CompTIA CySA+ Badge" width="90"/><br>
@@ -48,12 +50,10 @@
   </tr>
 </table>
 
+
 ---
 
-<!-- Optionally, add a fun fact or personal touch -->
 🌱 Always learning, building, and exploring new security technologies!
-
-
 
 ## 💰 Buy me a coffee ☕
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/anshpatel3) 
