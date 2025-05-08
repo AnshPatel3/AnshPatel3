@@ -48,7 +48,8 @@ Actively training for AWS Certified Security - Specialty and CompTIA CySA+ to en
 
 <p align="left">
   <a href="https://www.credly.com/badges/80948691-48b5-4292-a316-e0beb8096acf/public_url" target="_blank">
-    <img src="https://images.credly.com/size/220x220/images/74790a75-8451-400a-8536-92d792c5184a/image.png" alt="CompTIA Security+ Badge" width="90"/>
+    <img src="![image](https://github.com/user-attachments/assets/40a72194-aa14-48d1-b2ac-8fc92cb28852)
+" width="90"/>
   </a>
 </p>
 
