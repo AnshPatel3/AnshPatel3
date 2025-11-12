@@ -19,6 +19,10 @@
 ## 🚀 Featured Projects
 
 - [**SOC-in-a-Box**](https://github.com/AnshPatel3/SOC-in-a-Box): Deploying Elastic SIEM with OPNSense firewall and EDR for real-time endpoint monitoring and threat detection.
+- [**Multi-Node Proxmox Security & Infrastructure Lab**](https://github.com/AnshPatel3/proxmox-security-lab)
+    * Architected a 2-node Proxmox cluster virtualizing Active Directory, TrueNAS, and security VMs.
+    * Deployed a complete security stack: **Wazuh SIEM** integrated with **Suricata (IDS)** logs from an **OPNSense/Zenarmor (NGFW)**.
+    * Secured all endpoints with Wazuh agents and established a **Tailscale** zero-trust network.
 - [**Global Secure Travel Network**](https://github.com/AnshPatel3/Global-Secure-Travel-Network): Secure home lab network with OpenWRT, AdGuard, Tailscale VPN, and Raspberry Pi NAS.
 
 ---
@@ -47,6 +51,13 @@
       <br>
       <sub><i>In Progress</i></sub>
     </td>
+    <td align="center">
+  <img src="https://github.com/user-attachments/assets/31574145-2a7e-4476-9a41-16eced3d0c5f" alt="Microsoft SC-200 Badge" width="90"/><br>
+  <b>Microsoft SC-200</b>
+  <br>
+  <sub><i>In Progress</i></sub>
+</td>
+
   </tr>
 </table>
 
